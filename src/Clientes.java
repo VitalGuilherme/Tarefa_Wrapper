@@ -4,7 +4,7 @@ public class Clientes {
 
         long cpfClientes = 15620345890l;
         System.out.println(cpfClientes);
-        Long cpfClientes1 = 48236987514L;
+        Long cpfClientes1 = cpfClientes;
         System.out.println(cpfClientes1);
     }
 
